@@ -1,3 +1,10 @@
+---
+  tags: recursion
+  languages: ruby
+---
+
+# Towers of Hanoi
+
 ## LETS GET READY TO RECURSE!!!!!!
 
 You have 4 discs which vary in size from small to large.
@@ -44,7 +51,7 @@ Remember that there is more than one way to solve this problem. Don't try and bu
 
 ### Resources:
 
-[Video Explination](http://blossoms.mit.edu/videos/files/english/towers_hanoi_experiential_recursive_thinking_english_flash)
+[Video Explanation](http://blossoms.mit.edu/videos/files/english/towers_hanoi_experiential_recursive_thinking_english_flash)
 
 ![hanoi](http://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
 
