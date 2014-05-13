@@ -1,7 +1,7 @@
 ---
   tags: recursion
   languages: ruby
-  resources: 3
+  resources: 4
 ---
 
 # Towers of Hanoi
